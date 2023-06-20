@@ -10,7 +10,7 @@ public class Main {
 
 
 
-        System.out.println("dime el valor de la comunidad y piso");
+        System.out.println("Hola mundito");
 
     }
 }
